@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>MathLing@SBU</title><link href="http://complab-stonybrook.github.io/mlrg/" rel="alternate"></link><link href="http://complab-stonybrook.github.io/mlrg/feeds/all.atom.xml" rel="self"></link><id>http://complab-stonybrook.github.io/mlrg/</id><updated>2016-11-01T00:00:00-04:00</updated><entry><title>Gary Mar on Chaos Theory</title><link href="http://complab-stonybrook.github.io/mlrg/gary-mar-on-chaos-theory.html" rel="alternate"></link><published>2016-11-01T00:00:00-04:00</published><author><name>Aniello De Santo</name></author><id>tag:complab-stonybrook.github.io,2016-11-01:mlrg/gary-mar-on-chaos-theory.html</id><summary type="html">&lt;p&gt;Hi&amp;nbsp;all!&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>MathLing@SBU</title><link href="http://complab-stonybrook.github.io/mlrg/" rel="alternate"></link><link href="http://complab-stonybrook.github.io/mlrg/feeds/all.atom.xml" rel="self"></link><id>http://complab-stonybrook.github.io/mlrg/</id><updated>2016-11-07T00:00:00-05:00</updated><entry><title>Schedule Change and Future Meetings</title><link href="http://complab-stonybrook.github.io/mlrg/schedule-change-and-future-meetings.html" rel="alternate"></link><published>2016-11-07T00:00:00-05:00</published><author><name>Aniello De Santo</name></author><id>tag:complab-stonybrook.github.io,2016-11-07:mlrg/schedule-change-and-future-meetings.html</id><summary type="html">&lt;p&gt;Hi&amp;nbsp;all!&lt;/p&gt;
+&lt;p&gt;As we discussed last time, the schedule for the last part of the semester has been slightly&amp;nbsp;changed.&lt;/p&gt;
+&lt;p&gt;Next Friday, Adam will lead a discussion with the title &amp;#8220;Randomness in Algorithmic and Quantum Information Theory&amp;#8221;.
+We&amp;#8217;ll probably send a reminder later this week, but the meeting time and place are the&amp;nbsp;usuals.&lt;/p&gt;
+&lt;p&gt;If you look at the Schedule, you&amp;#8217;ll notice that we have a couple of free slots (starting next week).
+If there is something that you want to present/discuss together - or if you want to invite someone that doesn&amp;#8217;t usually attend the group -
+let us&amp;nbsp;know!&lt;/p&gt;
+&lt;p&gt;Have a great&amp;nbsp;week.&lt;/p&gt;</summary></entry><entry><title>Gary Mar on Chaos Theory</title><link href="http://complab-stonybrook.github.io/mlrg/gary-mar-on-chaos-theory.html" rel="alternate"></link><published>2016-11-01T00:00:00-04:00</published><author><name>Aniello De Santo</name></author><id>tag:complab-stonybrook.github.io,2016-11-01:mlrg/gary-mar-on-chaos-theory.html</id><summary type="html">&lt;p&gt;Hi&amp;nbsp;all!&lt;/p&gt;
 &lt;p&gt;This week (usual time, usual place) Gary will introduce us to the complexities of Chaos Theory -
 it&amp;#8217;ll be a lot of&amp;nbsp;fun!&lt;/p&gt;
 &lt;p&gt;In the Google Drive Folder, you can now find a simple and playful introduction about Gary&amp;#8217;s 
@@ -37,41 +44,4 @@ For this semester, a few topics have been&amp;nbsp;suggested:&lt;/p&gt;
 &lt;li&gt;Fourier Transforms, &lt;span class="caps"&gt;EEG&lt;/span&gt;&amp;nbsp;Math&lt;/li&gt;
 &lt;li&gt;Model Theoretic&amp;nbsp;Syntax&lt;/li&gt;
 &lt;li&gt;Categorial Grammar and Type-Logical&amp;nbsp;Grammar&lt;/li&gt;
-&lt;/ul&gt;</summary></entry><entry><title>Two Logic Classes This Coming Fall</title><link href="http://complab-stonybrook.github.io/mlrg/two-logic-classes-this-coming-fall.html" rel="alternate"></link><published>2016-08-08T00:00:00-04:00</published><author><name>Thomas</name></author><id>tag:complab-stonybrook.github.io,2016-08-08:mlrg/two-logic-classes-this-coming-fall.html</id><summary type="html">&lt;p&gt;Gary Mar will be teaching two logic classes this semester that should 
-be of interest to &lt;span class="caps"&gt;MLRG&lt;/span&gt; attendees. One is his Introduction to Symbolic 
-Logic (&lt;span class="caps"&gt;PHI&lt;/span&gt; 220, &lt;span class="caps"&gt;MWF&lt;/span&gt; 10-11), the other his Gödel seminar (M 4&amp;#8212;7). An 
-outline of the seminar is given at the end of this&amp;nbsp;message.&lt;/p&gt;
-&lt;p&gt;This is an excellent opportunity to learn more about logic in general, 
-and Gödel&amp;#8217;s revolutionary work in particular. Logic plays an important 
-role in computational linguistics (e.g. in model-theoretic syntax), 
-and we might also encounter some logic in my phonology seminar. So 
-even if you don&amp;#8217;t fancy yourself a semanticist, it&amp;#8217;s good to know some 
-basic logic &amp;#8212;- I&amp;#8217;d go so far as to say that familiarity with logic 
-and Gödel&amp;#8217;s work in particular is an essential requirement for every 
-modern&amp;nbsp;intellectual.&lt;/p&gt;
-&lt;p&gt;Also, the last time two linguistics students took a class with Gary, 
-it resulted in a joint paper on &amp;#8220;Unless and Until&amp;#8221; that was published 
-in the proceedings of the Symposium on Logic, Language, and&amp;nbsp;Computation.&lt;/p&gt;
-&lt;h2&gt;Gödel&amp;nbsp;seminar&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;The first three sessions of Goedel seminar will cover&amp;nbsp;the&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;history of logic from Aristotle to&amp;nbsp;Frege,&lt;/li&gt;
-&lt;li&gt;the emergence of paradoxes in logic and semantics from Russell and Frege to&amp;nbsp;Goedel,&lt;/li&gt;
-&lt;li&gt;applications of the philosophy of language to the history of&amp;nbsp;philosophy.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;We&amp;#8217;ll also cover the Goedel completeness and incompleteness 
-theorems, with the latter presented using modal provability&amp;nbsp;logics.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;There will be an informal introduction to Cantorian, in contrast to
-Fregean, set theory and how the axioms of &lt;span class="caps"&gt;ZFC&lt;/span&gt; articulate the Cantorian
-&amp;#8220;iterative conception of set.&amp;#8221; As a sidebar, we&amp;#8217;ll show why Grim&amp;#8217;s
-&amp;#8220;Cantorian Atheistic Arguments&amp;#8221; are based on a fundamental misunderstanding
-of the Cantorian conception and how Goedel&amp;#8217;s Modal Ontological Argument
-parallels certain constructions he used to prove his completeness&amp;nbsp;theorem.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;</summary></entry></feed>
+&lt;/ul&gt;</summary></entry></feed>
